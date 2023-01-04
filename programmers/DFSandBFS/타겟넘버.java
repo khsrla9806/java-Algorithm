@@ -1,4 +1,4 @@
-package programers.DFSandBFS;
+package programmers.DFSandBFS;
 
 import java.util.Collections;
 import java.util.LinkedList;

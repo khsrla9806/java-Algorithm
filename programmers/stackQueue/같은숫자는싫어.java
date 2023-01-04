@@ -1,4 +1,4 @@
-package programers.stackQueue;
+package programmers.stackQueue;
 
 import java.util.*;
 
